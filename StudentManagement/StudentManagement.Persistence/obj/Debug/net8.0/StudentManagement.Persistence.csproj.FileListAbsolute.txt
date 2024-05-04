@@ -1,0 +1,15 @@
+D:\CodeCamp\BE\WebApiAssignment\StudentManagement\StudentManagement.Persistence\bin\Debug\net8.0\StudentManagement.Persistence.deps.json
+D:\CodeCamp\BE\WebApiAssignment\StudentManagement\StudentManagement.Persistence\bin\Debug\net8.0\StudentManagement.Persistence.dll
+D:\CodeCamp\BE\WebApiAssignment\StudentManagement\StudentManagement.Persistence\bin\Debug\net8.0\StudentManagement.Persistence.pdb
+D:\CodeCamp\BE\WebApiAssignment\StudentManagement\StudentManagement.Persistence\obj\Debug\net8.0\StudentManagement.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodeCamp\BE\WebApiAssignment\StudentManagement\StudentManagement.Persistence\obj\Debug\net8.0\StudentManagement.Persistence.AssemblyInfoInputs.cache
+D:\CodeCamp\BE\WebApiAssignment\StudentManagement\StudentManagement.Persistence\obj\Debug\net8.0\StudentManagement.Persistence.AssemblyInfo.cs
+D:\CodeCamp\BE\WebApiAssignment\StudentManagement\StudentManagement.Persistence\obj\Debug\net8.0\StudentManagement.Persistence.csproj.CoreCompileInputs.cache
+D:\CodeCamp\BE\WebApiAssignment\StudentManagement\StudentManagement.Persistence\obj\Debug\net8.0\StudentManagement.Persistence.dll
+D:\CodeCamp\BE\WebApiAssignment\StudentManagement\StudentManagement.Persistence\obj\Debug\net8.0\refint\StudentManagement.Persistence.dll
+D:\CodeCamp\BE\WebApiAssignment\StudentManagement\StudentManagement.Persistence\obj\Debug\net8.0\StudentManagement.Persistence.pdb
+D:\CodeCamp\BE\WebApiAssignment\StudentManagement\StudentManagement.Persistence\obj\Debug\net8.0\ref\StudentManagement.Persistence.dll
+D:\CodeCamp\BE\WebApiAssignment\StudentManagement\StudentManagement.Persistence\obj\Debug\net8.0\StudentManagement.Persistence.csproj.AssemblyReference.cache
+D:\CodeCamp\BE\WebApiAssignment\StudentManagement\StudentManagement.Persistence\bin\Debug\net8.0\StudentManagement.Persistence.runtimeconfig.json
+D:\CodeCamp\BE\WebApiAssignment\StudentManagement\StudentManagement.Persistence\obj\Debug\net8.0\StudentManagement.Persistence.genruntimeconfig.cache
+D:\CodeCamp\BE\WebApiAssignment\StudentManagement\StudentManagement.Persistence\obj\Debug\net8.0\StudentManagement.Persistence.sourcelink.json
